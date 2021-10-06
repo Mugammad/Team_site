@@ -47,3 +47,37 @@ li a .active {
     /*  */
     background-color: #111;
 }
+
+h1, h2, p {
+    font-family: 'Inconsolata', monospace;
+}
+
+.toppest {
+    text-align: center;
+    font-size: 5em;
+    color: tomato;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: #729fcf;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: rgb(48, 10, 36);
+    margin: 0;
+}
+
+.box {
+    width: 900px;
+    margin: auto;
+    margin-bottom: 200px;
+    margin-top: 60px;
+}
